@@ -4,7 +4,7 @@
 
 *Un espacio de relatos de viajes en solitario por lugares mágicos del mundo.*
 
-[![Website](https://img.shields.io/badge/Website-felruiz--dev.netlify.app-lightblue)](https://felruiz-dev.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-felruiz--dev.netlify.app-lightblue)](https://felruiz-dev.netlify.app/) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ruizRojasFel/nothofagus_solitario_md?tab=MIT-1-ov-file)
 
 </div>
 
